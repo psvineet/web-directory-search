@@ -171,7 +171,7 @@ $excludedDirs = ['.git', 'node_modules'];
 
 ## 📜 License
 
-This project is open-source and free for educational and personal use.
+This project is open-source under MIT License.
 
 ---
 
