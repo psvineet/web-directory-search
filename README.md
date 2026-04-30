@@ -95,6 +95,7 @@ Replace in code:
 ```php
 $hashedPassword = 'your_generated_hash_here';
 ```
+**Default - 1234**
 
 ---
 
