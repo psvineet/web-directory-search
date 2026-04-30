@@ -70,12 +70,12 @@ Supported formats:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/secure-data-directory-php.git
+git clone https://github.com/psvineet/web-directory-search.git
 ```
 
 ### 2. Move to Server Directory
 ```bash
-cd secure-data-directory-php
+cd web-directory-search
 ```
 
 Place inside:
